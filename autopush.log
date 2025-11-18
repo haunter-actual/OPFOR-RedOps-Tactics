@@ -16383,3 +16383,25 @@ From github.com:haunter-actual/OPFOR-RedOps-Tactics
 error: cannot rebase: You have unstaged changes.
 error: Please commit or stash them.
 Already up to date.
+[Mon Nov 17 04:37:02 PM PST 2025] Changes detected — committing...
+[main 9ab3a6e] Auto sync: 2025-11-17 16:37:02
+ 10 files changed, 1157 insertions(+)
+ create mode 100644 04-Post-Exploitation/01-Linux/docker.md
+ create mode 100644 04-Post-Exploitation/01-Linux/kernel_exploits.md
+ create mode 100644 04-Post-Exploitation/01-Linux/kubernetes.md
+ create mode 100644 04-Post-Exploitation/01-Linux/logrotate.md
+ create mode 100644 04-Post-Exploitation/01-Linux/miscelleneous.md
+ create mode 100644 04-Post-Exploitation/01-Linux/python-library-hijacking.md
+ create mode 100644 04-Post-Exploitation/01-Linux/shared-object-hijacking.md
+ create mode 100644 04-Post-Exploitation/01-Linux/shared_libraries.md
+ create mode 100644 04-Post-Exploitation/01-Linux/sudo.md
+[Mon Nov 17 04:37:02 PM PST 2025] Pushing to GitHub...
+To github.com:haunter-actual/OPFOR-RedOps-Tactics.git
+   9f2296d..9ab3a6e  main -> main
+[Mon Nov 17 04:37:04 PM PST 2025] Push complete.
+[Mon Nov 17 04:38:01 PM PST 2025] Starting auto-push...
+From github.com:haunter-actual/OPFOR-RedOps-Tactics
+ * branch            main       -> FETCH_HEAD
+error: cannot rebase: You have unstaged changes.
+error: Please commit or stash them.
+Already up to date.
